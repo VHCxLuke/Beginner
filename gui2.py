@@ -3,7 +3,7 @@
 # Unauthorized copying of this file, via any medium is strictly prohibited
 # Proprietary and Confidential
 # Written by Luke Redwine <Luke@valuesholding.com>, July 2016
-#still worked my dude
+#still worked my dude manggggg
 #!/usr/bin/env python
 from Tkinter import *
 from serial import *
